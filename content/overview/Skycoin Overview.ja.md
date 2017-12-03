@@ -12,7 +12,7 @@ categories = [
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="1" -->
 
-- [Skycoin Introduction](#skycoin-introduction)
+- [Skycoinの紹介](#skycoin-introduction)
 - [Innovations And Flaws With Bitcoin And The Current Blockchain Protocols](#innovations-and-flaws-with-bitcoin-and-the-current-blockchain-protocols)
 - [Innovations Produced By Bitcoin](#innovations-produced-by-bitcoin)
 - [Major Flaws Of Bitcoin](#major-flaws-of-bitcoin)
@@ -25,7 +25,7 @@ categories = [
 
 <!-- /MarkdownTOC -->
 
-# Skycoin Introduction
+# Skycoinの紹介
 
 Skycoin is based on technology
 which introduces a new cryptographic primitive
