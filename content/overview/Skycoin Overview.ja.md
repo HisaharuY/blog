@@ -39,7 +39,7 @@ single algorithm, but an implementation employing
 multiple techniques to deliver specific security
 guarantees.
 
-# ビットコイン革新的な工夫及びその弱点、そして現在のブロックチェーン手続きについて
+# ビットコインの革新的な工夫及びその弱点、そしてブロックチェーンの現在の方式について
 
 In Bitcoin, new transactions are placed into
 a block, which is appended to the blockchain. Any
