@@ -41,7 +41,8 @@ CXは、規格とプログラミング言語とからなるもので、その言
 入力すればいいかを尋ねると、プログラムはその答えをいくつか教えてくれます。あなたがどうするかを
 決めて選べば、プログラムはそのとおりに動いてくれるわけです。その結果、CXのアフォーダンスシステムによって、
 作業をしながら、ネイティブな(最初から実装された)仕組みによって、遺伝的プログラミング・アルゴリズムが適用され、
-プログラム構造を最適化できるのです。
+プログラム構造を最適化できるのです。CXの操作においてプログラマは、コンパイラー方式およびインタープリター方式の
+両方で操作できるようになっています。インタープリタでは、「read-eval-print loop」によって
 
 The CX specification states that both a compiler and an interpreter
 must be accessible to the programmer. The interpreter can be accessed
