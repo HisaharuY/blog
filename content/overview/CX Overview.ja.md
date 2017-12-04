@@ -37,17 +37,11 @@ categories = [
 
 CXは、規格とプログラミング言語とからなるもので、その言語は「アフォーダンス概念」に
 基づく新しい構成となっています。アフォーダンスにおいては、、そのプログラムによって何ができて
-何ができないのかがわかりやすく提供されます。例えば、 
-
-Affordances allow a program to know what actions can and
-cannnot be done by it. For example, we can ask the program what
-arguments can be sent to a function, and the program will return a
-list of possible actions. After having decided what action from the
-list is appropriate, we can choose one of the options and the program
-will apply the chosen action. As a consequence of CX's affordance system, a
-genetic programming algorithm is built and provided as a native
-function, which can be used to optimize the program's structure during
-runtime.
+何ができないのかがわかりやすく提供されます。例えば、 関数に数を代入するとき、どのような形式で
+入力すればいいかを尋ねると、プログラムはその答えをいくつか教えてくれます。あなたがどうするかを
+決めて選べば、プログラムはそのとおりに動いてくれるわけです。その結果、CXのアフォーダンスシステムによって、
+作業をしながら、ネイティブな(最初から実装された)仕組みによって、遺伝的プログラミング・アルゴリズムが適用され、
+プログラム構造を最適化できるのです。
 
 The CX specification states that both a compiler and an interpreter
 must be accessible to the programmer. The interpreter can be accessed
