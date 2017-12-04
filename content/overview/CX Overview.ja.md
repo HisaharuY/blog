@@ -37,7 +37,7 @@ categories = [
 
 CXは、規格とプログラミング言語とからなるもので、その言語は「アフォーダンス概念」に
 基づく新しい構成となっています。アフォーダンスにおいては、、そのプログラムによって何ができて
-何ができないのかがわかりやすく提供されます。例えば、
+何ができないのかがわかりやすく提供されます。例えば、 
 
 Affordances allow a program to know what actions can and
 cannnot be done by it. For example, we can ask the program what
