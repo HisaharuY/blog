@@ -49,22 +49,15 @@ CXでは、プログラマはコンパイラー方式およびインタープリ
 プログラムが完成したら、コンパイルによって動作効率を高めることが可能です。
 
 CXにおける記述仕様は非常に厳格です。”暗黙のキャスティング”が行われるのは、
-構文解析の際、整数か、浮動小数か、ブール数、文字、配列の決定の時だけです。
+構文解析において、整数か、浮動小数か、ブール数、文字、配列かを定義するときだけです。
+例えば、もし関数が64bitの整数を使おうとする際には、キャストによって要求される
+形式にその数を変換しなければなりません。
 
+最後に、CXプログラムは、バイト型の配列によって連続的に構成し、実行状態と構造を維持することができます。
+連続した状態のプログラムは、その後分離し、そのままCXインタープリタ・コンパイラを搭載した機器で
+動作を続けることが可能です。
 
-The typing system in CX is very strict. The only "implicit casting"
-occurs when the parser determines what is an integer, a float, a
-boolean, a string, or an array. If a function requires a 64 bit
-integer, for example, one has to use a cast function to explicitly
-convert it to the required type.
-
-Lastly, a CX program can be completely serialized to byte arrays,
-maintaining its execution state and structure. This serialized version
-of a program can be deserialized later on, and continue its execution
-in any device that has a CX interpreter/compiler.
-
-In the following sections, the CX features discussed in the above
-paragraphs are described in more detail.
+下記の章では、以上に述べたCXの特性をより詳しく解説します。
 
 # Project's Repository
 
