@@ -59,7 +59,11 @@ CXにおける記述仕様は非常に厳格です。”暗黙のキャスティ
 
 下記の章では、以上に述べたCXの特性をより詳しく解説します。
 
-# Project's Repository
+# プロジェクトの収納庫(Repository)
+
+プロジェクトのソースコードはGithubからダウンロードすることができます。
+[https://github.com/skycoin/cx](https://github.com/skycoin/cx).
+収納庫は仕様、ドキュメント、例文、ソースコード本体を含みます。
 
 The source code of the project can be downloaded from its Github
 repository:
@@ -67,7 +71,15 @@ repository:
 repository includes the specification file, documentation, examples,
 and the source code itself.
 
-# Syntax
+# 構文　Syntax
+
+「CXのご紹介」で述べたように、CXは仕様とプログラミング言語から構成されます。
+”CXの仕様”が意味するのは、”構文”というよりは、どちらかというと、プログラムの
+構造や、手順であり、CXらしくあるために従わなければならないCXの書き方ということになります。
+その結果として、あなたは２つのCXの書き方ができるかもしれません。
+一つはLISPのような構文、そしてもう一つはC言語のような構文です。
+このような考え方の根底を流れるものを、”CXを基本にした～”とか、”基本言語”とかいう呼び方をします。
+この
 
 As was mentioned in the introduction, CX is both a specification and a
 programming language. The CX specification does not impose a syntax,
