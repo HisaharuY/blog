@@ -44,14 +44,13 @@ CXは、規格とプログラミング言語とからなるもので、その言
 プログラム構造を最適化できるのです。
 
 CXでは、プログラマはコンパイラー方式およびインタープリター方式の
-両方で操作できる仕様になっています。インタープリタでは、「read-eval-print loop」によって
+両方で操作できる仕様になっています。インタープリタでは、「read-eval-print loop(読み込み－解釈－表示の繰り返し)」によって
 操作可能となっており、つまりプログラムの要素の追加、削除を行うことができます。
+プログラムが完成したら、コンパイルによって動作効率を高めることが可能です。
 
-The CX specification states that both a compiler and an interpreter
-must be accessible to the programmer. The interpreter can be accessed
-through a read-eval-print loop, where the programmer can interactively
-add and remove elements to a program. Once the program has been
-finished, it can be compiled in order to increase its performance.
+CXにおける記述仕様は非常に厳格です。”暗黙のキャスティング”が行われるのは、
+構文解析の際、整数か、浮動小数か、ブール数、文字、配列の決定の時だけです。
+
 
 The typing system in CX is very strict. The only "implicit casting"
 occurs when the parser determines what is an integer, a float, a
