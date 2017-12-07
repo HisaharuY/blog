@@ -13,7 +13,7 @@ categories = [
 <!-- MarkdownTOC autolink="true" bracket="round" depth="2" -->
 
 - [CX のご紹介](#cx-introduction)
-- [Project's Repository](#projects-repository)
+- [プロジェクトの収納庫(Repository)](#projects-repository)
 - [Syntax](#syntax)
 - [Affordances](#affordances)
     - [Arity Restrictions](#arity-restrictions)
@@ -79,7 +79,8 @@ and the source code itself.
 その結果として、あなたは２つのCXの書き方ができるかもしれません。
 一つはLISPのような構文、そしてもう一つはC言語のような構文です。
 このような考え方の根底を流れるものを、”CXを基本にした～”とか、”基本言語”とかいう呼び方をします。
-この
+この文書では、この言語の実装例を示すことにより、学術的な目的だけでなく、
+幅広い用途に使えるだけの頑丈で完備された言語であることを示そうと思います。
 
 As was mentioned in the introduction, CX is both a specification and a
 programming language. The CX specification does not impose a syntax,
@@ -92,10 +93,14 @@ showcase the capabilities of the specification, although its purpose
 is not only to serve as an academic tool, but to become a complete and
 robust language that can be used for general purposes.
 
+この文書で使用したCXは、Go言語と似た書式となっています。
+
 The CX used in this document has the goal to have a syntax as similar
 as possible to Go's syntax.
 
-# Affordances
+# アフォーダンス（Affordances）
+
+
 
 A programmer needs to make a plethora of decisions while constructing
 a program, e.g., how many parameters a function must receive, how many
