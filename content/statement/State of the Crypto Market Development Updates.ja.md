@@ -93,11 +93,10 @@ Cardanoのような例では、全てのコインがインサイダー(内部関
 
 以前は、人々は良くて安いコインを見つける期間があったのに、今はインサイダーによるカルテルによって、彼らはコインを人々に分配し、事前に裕福になります。（Pre-ICO？こりゃ一体なんだ？）　そして、コインは交換所に投入され、彼らは好きなだけ販売するのです。
 
-So the new model is:
+流行のモデルは次のとおり：
 
-- The founders and insiders buy in at 1/10th the ICO price
-- They sell to public at ICO price (10x what the insiders paid in the
-  "pre-ICO" no one told you about)
+- 設立者とインサイダーはICOの1/10で購入します。
+- 彼らは一般向けにICO価格で販売します。（インサイダーが”pre-ICO”で購入した価格の10倍。これは非公開）
 - Then they dump the coins on the exchange at the ICO price and support price
   with the pre-ICO/ICO sales and then market the hell out of the project.
   Dumping as many coins on the dumb public as they can.
@@ -105,24 +104,17 @@ So the new model is:
   people are just doing the ICOs, going to next coin and washing/repeating
   every week.
 
-Most of the "Raised 150 million dollars in ICO!" are fake. Its like five guys
-taking their money, putting it into the coin and then getting their money back
-on backend.
+ほとんどの「150億円をICOで調達した！」というような宣言はウソです。例えてみるなら、5人でお金を出してコインを買い、自分たちで裏からお金を回収しているようなものです。
 
-The "investors" are demanding extremely steep and large discounts (huge
-percentages of the coins at extremely large discounts). "All the other coins
-are giving me 30% of the market rate". The "coin investment funds" are
-literally popping up, to shop around and try to buy up 5 or 20 million dollar
-chunks of crypto-coins. 5% or 20% of crypto-currencies at a fraction of the
-market price, so they can dump them over time on the market for profit.
+「投資者」は大幅なディスカウントを要求します。「他のコインはどこでも、市場価格の30%をこちらに分け前として提供してくれるよ」というわけです。彼らは「仮想通貨投資ファンド」として突然出現し、5～20億円もの大量のコインを購入し、5%～20%の値引きをして、その後、彼らはコインを市場にばらまいて利益を得るのです。
 
-The old model was:
+以前のモデル：
 
-- You release coin
-- It gradually appreciates over years as user community and adaption grow
-- The earlier people do well and hopefully the project does something useful
+- あなたはコインを放出します。
+- コミュニティーは成長し、コインが受容されていくとともに認知されていきます。
+- 早期に関与した人たちは任務を果たし、プロジェクトは可能であれば、何か有益なことを行っていきます。
 
-The current models is to just scam the public for anything you can get.
+流行のモデルは、あなたが本来得るはずであったものを騙し取るにすぎません。
 
 I think, from experience with some of the coins I have advised on, from some
 of the conference calls I have been on, that I can predict that we could see
