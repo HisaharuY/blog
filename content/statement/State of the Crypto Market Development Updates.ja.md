@@ -47,38 +47,30 @@ categories = [
 
 現在、少額のスパム送信や、ジャンク取引によるブロックチェーンの肥大化を避けるためこのような設定にしています。
 
->Why not promote the close of the telegram and the slack channel.
->Move completely to discord.
+>なぜTelegramとSlack channelを閉鎖しないのでしょうか。
+>意見の一致が見られていないようですが。
 
-No one is on Discord. We do not use the slack much.
+意見の対立はとくに発生していません。また、Slack はあまり使用されていない状況です。
 
-We have Sky-Messenger and our own messaging platform, so will probably move
-over there eventually.
+我々にはSkyメッセンジャーと、独自のメッセージプラットフォームがありますので、状況をみてそちらへ移行したいと考えています。
 
-We also have BBS and our own social media platform.
+我々はその他に、BBSとソーシャルメディアプラットフォームも現在活用しています。
 
->Also the telegram was set up wrong. Some people can access the news slack but
-are locked out of the BB and the main slack.
+>Telegramはうまく機能していないようです。Slackのニュースにアクセスはできますが、メインのSlackやBBSには入れません。
 
-Telegram bans numbers/users from non-english speaking countries in English
-speaking super-channels because of spam. Get a google voice number and use
-that and then it should work.
+Telegramはスパム回避のため、英語圏以外の国のユーザを禁止しています。対応として、Google voice numberを使用してください。
 
->In my opinions alot of the alts and also BTC and its family maybe will go
-through another boom market.
+>アルトコインやビットコイン等は、別の市場へ移行するのではないでしょうか。
 
-Yes. Definitely.
+確かにそのとおりです。
 
-I am seeing junk platforms with no users, trading for almost a billion dollars.
+ユーザがいない市場でうまく機能しないプラットフォームで何十億円も取引されている例があります。ビットコインは来年３月には1万ドルに達するかもしれません。
 
-Bitcoin may hit $10,000 by March.
+## Summary of the Current Bitcoin Market　ビットコイン市場の現状
 
-## Summary of the Current Bitcoin Market
+仮想通貨市場の裏側で何が起こっているのか、我々が議論した内容を紹介します。
 
-This is what is happening on inside track and what we discussed recently....
-
-We will see some ups and down, with marketing going up and down, but the volume
-of money and attention flooding into crypto-assets only keeps increasing.
+仮想通貨の価格や市場規模は日々変化していますが、この市場へ流入する資金量や人々の関心は、ますます増える一方です。
 
 However, there are VERY FEW real or legitimate coins. There are lot of coins
 with very nice looking websites and many coins with very nice looking "advisor
