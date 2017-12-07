@@ -116,43 +116,21 @@ Cardanoのような例では、全てのコインがインサイダー(内部関
 
 流行のモデルは、あなたが本来得るはずであったものを騙し取るにすぎません。
 
-I think, from experience with some of the coins I have advised on, from some
-of the conference calls I have been on, that I can predict that we could see
-some exchange owners raided at gun point and thrown face down with a gun to
-their head while their servers are looted and confiscated by the government.
-Not because their are scamming people, but just because they are clueless and
-snubbing the wrong person or the friend of the regulators.
+私が過去に受けた相談や、会議での経験から私にはこんなことが予想されます。つまり、いくつかの仮想通貨交換所のオーナーは政府によって銃を向けられ、押し倒され、彼らのサーバーが奪われ、没収されると。これは、彼らが詐欺師であるからではなく、彼らがやり方をよくわかっておらず、規制当局や適正な行動をしない人たちを丁寧に扱わないでいるからです。
 
-Basically, none of the governments wanted to "regulate" Bitcoin or the exchanges
-until the "regulator" and their friends started getting into the market and
-wanted to push out the other people. In the United States especially, you will
-have an oligarchy like CoinBase and a few companies and only they are allowed
-to operate. They will start white listing coins, so only their coins
-get listed and exchanges will be delisting the other projects.
+基本的には、規制当局あるいはその友人が市場に参入し、部外者を排除しようという時までは、どの政府もビットコインや交換所を“規制”したりはしたくないでしょう。アメリカでは特に、CoinBaseのようなオリガルヒ(新興財閥)がいくつか存在し、彼らだけが業務を許されています。彼らはコインのホワイトリスト(警戒する必要のない一覧)を作成し、彼らのコインのみ交換可能とされ、それ以外はリストからはずされます。
 
-The exchanges that are not owned by the right people are going to be shutdown
-(or hacked).
+正しい人によって運営されていない取引所は、今後閉鎖（若しくはハッキング）されるでしょう。
 
-They are literally doing "Do what we say and we will protect you", then on
-backend they are trying to get them shutdown at gunpoint so they can put their
-"licensed" competitor in place. Sort of like Circle trying to integrate
-Bitcoin into iMessage, then creating a white-list of which coins could go into
-the Apple App store. Everyone is trying to figure out how they can grab this
-thing and get control over it.
+彼らは「言うとおりにしろ。悪いようにはしないから」と言いながら、銃で押さえつけて“認可済”の業者を配置します。そして、仲間内で例えば、BitcoinをiMessageに組み込んだり、どのコインがアップルストアに適合可能かのホワイトリストを作ったりしようとするでしょう。このようなコントロール方法を皆が知らなければいけません。
 
-Just imagine if Apple integrated circle as the "official Bitcoin wallet" and
-put it in iMessenger, then purged all the Bitcoin wallets from the App store.
+アップル社が公式にこのようなウォレットのみを許可し、iMessageに組み込み、その他のアプリを排除するような事態を想像してみてください。
 
-The coin market is forming into an oligarchy. People are demanding "regulation"
-because they are scamming everyone left and right and do not want to compete
-with other people's scams so they want to own and control the regulation and
-shut everyone else down. That is what is happening.
+コイン市場はオリガルヒを形成してしまうでしょう。消費者は詐欺を恐れて規制を望みます。その結果、その他のものを受け付けなくなってしまいます。これが現状です。
 
-I think we may see another round of large hacks, like we did on Gox.
+もう一つ、マウントゴックスのような、大きなハッキングの発生も予想されます。
 
-There may not be a regulatory or legal pretense for shutting down particular
-exchanges (like what happened to BTC-E) and they could be "hacked" and cleared
-out like MtGox.
+過去に取引所BTC-eが閉鎖された時のような、特定の取引所の閉鎖命令はないかもしれませんが、MtGoxのようにハッキングして通貨が消滅してしまうかもしれません。
 
 There was also a conference call where it was pointed out that the SEC was
 funded by regulatory actions, fines and asset seizures. That is where their
