@@ -18,7 +18,7 @@ categories = [
 +++
 
 - [Q&A](#q-a)
-- [Summary of the Current Bitcoin Market](#summary-of-the-current-bitcoin-market)
+- [ビットコイン市場の現状](#summary-of-the-current-bitcoin-market)
 - [New Wallet](#new-wallet)
 - [CoinHours](#coinhours)
 - [Skycoin \(DEX\) Distributed Exchange Support](#skycoin-dex-distributed-exchange-support)
@@ -66,59 +66,32 @@ Telegramはスパム回避のため、英語圏以外の国のユーザを禁止
 
 ユーザがいない市場でうまく機能しないプラットフォームで何十億円も取引されている例があります。ビットコインは来年３月には1万ドルに達するかもしれません。
 
-## Summary of the Current Bitcoin Market　ビットコイン市場の現状
+## ビットコイン市場の現状　Summary of the Current Bitcoin Market　
 
 仮想通貨市場の裏側で何が起こっているのか、我々が議論した内容を紹介します。
 
 仮想通貨の価格や市場規模は日々変化していますが、この市場へ流入する資金量や人々の関心は、ますます増える一方です。
 
-However, there are VERY FEW real or legitimate coins. There are lot of coins
-with very nice looking websites and many coins with very nice looking "advisor
-boards". There are coins raising hundreds of millions of dollars in ICOs left
-and right.
+ところが現在この市場には、本物の正真正銘のコインは“ほとんど存在しない”という状況であると我々は考えています。ウエブサイトが素晴らしく、重厚なアドバイザリーボード(顧問団)が控えているように見えるコインが多くあります。そして、ICOによって何百億円もの資金を集めています。
 
-However, almost none of these coins have any software developers or have the
-ability to hire or manage software developers or the ability to architect or
-design software.
+しかし、これらのほとんどの多くのコインは、ソフトウエア開発チームがなく、またはチームを編成し運営する能力もなく、ソフトを設計、デザインすることさえできない状況です。
 
-However, their marketing is very good. Since they do not have to do software
-development, they can focus 100% of their energy on their marketing (instead
-of having to develop things). While the projects who are actually doing real
-things are handicapped in this market and ignored.
+一方、彼らはマーケティングを得意としています。ソフト開発ではなく、100%の能力をマーケティングに注力します。その背後でプロジェクトの実務担当グループはうまく機能していません。
 
-Some of the projects with no developers who have raised insane amounts of
-money, have even announced that they will not open source (no one gets to see
-if they are developing software), until "their AIs are done". So they are
-going to build some type of artificial intelligence machine learning (LOL,
-what!?) before anyone can see if they are actually writing code or know how
-the system they are building is supposed to work.
+開発部隊のいないプロジェクトであっても、かなりの資金を集め、「オープンソースのソフトではない(誰にも確認できない)」と宣言し、「AI(人工知能)が完成した。」とさえ言います。そして人工知能による学習システムを完成させます。(こりゃなんだ？！)　そして、本当に彼ら自身がプログラムしたのかどうか、完成したシステムが動作するかどうかなんて、誰にもわからないのです。
 
-Since there are so few real projects, we will see MASSIVE floods of money,
-that are quite rapid, into the small number of real projects.
+本物のプロジェクトに、巨大な資金が急速に流れ込む、というのは極めて稀でしかありません。
 
-The time to invest in these projects, between when no one cares when everyone
-is rushing in and the coin has appreciated is very brief.
+皆が何か特別に目立つコインに殺到しているような時に、ほとんど誰も気づいていない本物のプロジェクトに投資できる時というのは、とても短い間だけです。
 
-Previously, coins had a period where public could buy them at a low price,
-before they appreciated. It tooks years (like Litecoin and Bitcoin).
 
-Then for more recent coins like ByteBalls, there were only a few months to buy
-because it exploded in price from pennies to $800 in merely a few months. Now
-the appreciation is happening even more rapidly and in an even more compressed
-time frame.
+コインが市場で受け入れられる前に、一般向けに低価格で事前販売するという期間が設けられる場合がありました。これは例えば何年もの期間でした。（LitecoinやBitcoin等）
 
-Now, with projects like Cardano, all of the coins are pre-sold to insiders.
-Then the coin just magically APPEARS in the top 15 out of nowhere. There is no
-period when the coin is being bought/sold by a user community. They just sell
-the coins to insiders, VCs and the already wealthy. Then the coin POPS on the
-exchange at its full price and then they pay marketers to promote it and people
-to buy it. While the insiders dump as many coins as they can.
+最近では、Byteball等のように、数円から8万円程に爆発的に上昇するまでに数か月ほどの場合もあります。そして、この速度はどんどん短くなってきています。
 
-So before, there was a period when the public could find a good coin, cheaply,
-and buy it before it appreciated. Today, it is just a cartel of insiders who
-are already rich, giving each other coins (pre-ICO, lol what?) and
-institutional sales, before throwing the coin on an exchange and trying to
-dump as much of it as they can on the public.
+Cardanoのような例では、全てのコインがインサイダー(内部関係者)により事前に販売されます。そして、どこからともなく、突然トップ15位にランク入りするのです。このような場合、コミュニティーの中で売買されるという準備期間がありません。彼らはインサイダーにコインを売り、最初の段階からVC(ベンチャーキャピタル)はお金持ちになっています。そのコインは交換所で突然公式の金額で出現し、宣伝活動によって、人々は購入の勧誘を受けます。一方、インサイダーはいくらでもコインを投げ売りできるのです。
+
+以前は、人々は良くて安いコインを見つける期間があったのに、今はインサイダーによるカルテルによって、彼らはコインを人々に分配し、事前に裕福になります。（Pre-ICO？こりゃ一体なんだ？）　そして、コインは交換所に投入され、彼らは好きなだけ販売するのです。
 
 So the new model is:
 
