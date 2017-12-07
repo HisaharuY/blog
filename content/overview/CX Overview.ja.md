@@ -93,13 +93,18 @@ showcase the capabilities of the specification, although its purpose
 is not only to serve as an academic tool, but to become a complete and
 robust language that can be used for general purposes.
 
-この文書で使用したCXは、Go言語と似た書式となっています。
+この文書では、”Go言語”と似た書式でCXを記述することを目的としています。
 
 The CX used in this document has the goal to have a syntax as similar
 as possible to Go's syntax.
 
 # アフォーダンス（Affordances）
 
+プログラマーは、プログラムするときに、非常に多くの決断をしなければいけません。
+例えば、ある関数がいくつのパラメータを受け取ることにするのか、そしていくつのパラメータを
+返すことにするのか、目的とする機能を得るためどんな表示をするべきか、
+
+等です。
 
 
 A programmer needs to make a plethora of decisions while constructing
