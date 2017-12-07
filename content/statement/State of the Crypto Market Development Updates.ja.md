@@ -30,24 +30,22 @@ categories = [
 
 ## Q&A
 
->There is no mention of a re-working of the whitepapers.
->Should this not be a priority so that your marketing that has started has
-reference material.
->This is a technical coin and so the documentation needs to be up to date.
+>ホワイトペーパーに関する進捗状況を知りたいです。
+>市場公開が既に始まっているため、参考資料作成を優先するよう希望します。
+>技術が特徴のコインなので、最新の状況を知らせてください。
 
-Everyone is so busy.
+関係者の作業の関係で対応が遅くなっています。
 
-We are trying to get a technical writer, to just produce content and write
-articles around the info-graphics we did.
+今後の予定としては、テクニカルライターに依頼して、コンテンツを作成し、記事を公開していく予定です。
 
->Why is it only one decimal point change in the coin?
->All other coins have 6 to 8 decimal points.
+>なぜ小数点以下のコインが出金できないのでしょうか。
+>他のコインの場合、小数点以下6～8桁の対応が可能だと思います。
 
-1 decimal place means ~$0.30
+小数点第1桁のコインとした場合、単位は0.3ドル（約33円）となります。
 
-We will enable 2 decimal places when Skycoin hits $10. We can enable the full 6 eventually.
+今後、Skycoinが10ドルになった時点で、小数点第2桁の使用を可能にする予定です。なお状況により小数点以下最大6桁まで拡張が将来可能です。
 
-We just do not want people spamming nano-transactions and bloating the blockchain with junk.
+現在、少額のスパム送信や、ジャンク取引によるブロックチェーンの肥大化を避けるためこのような設定にしています。
 
 >Why not promote the close of the telegram and the slack channel.
 >Move completely to discord.
