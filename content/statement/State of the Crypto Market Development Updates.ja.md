@@ -186,29 +186,24 @@ Krakenはおそらくは唯一、このような問題がない取引所です�
 
 結果は次のとおり：
 
-- The two scam ICOs, already have multiple exchanges lined up to list them,
-  with confirmed listing dates
-- The actual company with 100 million/year in revenue with actual power grid
-  projects, cannot even get a phone call or get the exchanges to talk to them
+- 2つの詐欺ICOは、日程をしっかりと記載されて、複数の取引所に既にリストアップされています。
+- 実際の電力グリッドプロジェクトで1億ドル/年の収益を上げている実際の会社は、電話をかけたり、交流して話をすることさえできません。
 
-That is what the altcoin market looks like right now. The non-scams are
-actually being filtered out for economic reasons.
+これは今、アルトコイン市場がどのようになっているかを示しています。 経済的理由から本物は市場から除外されています。
 
-What is happening now is:
+現実に起こっていることは次のとおり:
 
-- The latest generation of users is buying/selling 15 or 60 coins in their
-  portfolio. Someone who owns 60 coins does not have 60 wallets installed on
-  their computer. Even the altcoin investment fund people are having trouble
-  keeping 15 wallets installed to an offline computer and figuring out how to
-  do offline transaction signing for them.
-- They do not even have wallets installed for ANY of the coins. Meaning all
-  of the coins are just sitting on exchanges waiting to be looted
-- I did a survey of Ethereum users and ask them questions like "What Ethereum
-  Thin Wallet is Best? Is there something like Electrum for Ethereum? What are
-  the best Ethereum wallets?" and most of the "Ethereum Users" have never
-  actually used an Ethereum wallet or cannot answer, do not know. This means
-  all that money is on exchanges somewhere, its not in their wallets.
-
+- 新しい世代のユーザーは、15～60種のコインを売買しています。 
+　60種のコインを所有している人は、PCに60個のウォレットを導入しているわけではありません。
+ アルトコインの投資ファンドの人々でさえ、15種のウォレットをオフラインのコンピュータで
+ 維持することで問題が発生しており、オフラインのトランザクション署名を行うこともできません。
+- 彼らはどのコインのウォレットもパソコンにインストールしていません。
+　すべてのコインは、略奪される可能性のある取引所においているだけです
+- 私はEthereumのユーザーにアンケートを行い、「Ethereum Thin Walletはどれがベストですか？」
+　という質問をしました。「Electhere for Ethereum」に似たものがありますか？「Ethereum Wallet」は何ですか？というふうに。
+ ところが、Ethereumユーザーのほとんどは、Ethereumウォレットを実際に使用したことはありませんでした。
+ あるいは、わからないようでした。つまり、お金はどこかの交換所におかれていて、ウォレットには収納されていないということです。
+ 
 For the smaller coins (even coins valued in hundreds of millions or billions
 of dollars), many actually have almost zero real transactions, zero people
 actually with the wallet. I know this from node IP stats and harvested data I
