@@ -168,9 +168,8 @@ Krakenはおそらくは唯一、このような問題がない取引所です�
 - 市場メーカーが雇われている。(大きな取引量に見せるために大きなお金を払っている）
 - 不正確な交換所ランキング(ウソの取引量)
 - 市場では売買が難しい(従って直接購買が必要)
-- Most coins are off markets because of the hacking risk (getting Goxed)
-- Ability to easily rig billions in coin market cap with little money
-  because there is no real order book depth
+- 多くのコインは市場に出ていない。ハッキングの危険性があるため（Mt.Gox事件）
+- 実際にはそれほどの注文がないため、わずかな資金で何千億円もの市場規模であるようにみせることができる。
 - Emphasis of exchanges on only the largest, most well marketed coins who have
   done huge ICOs (all of which are scams). No emphasis on technology or real
   companies
