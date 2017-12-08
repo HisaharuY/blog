@@ -141,14 +141,13 @@ Cardanoのような例では、全てのコインがインサイダー(内部関
 - 交換所には大きなインセンティブがあるので、ウソや水増しが生じるのです。
 　（詐欺コインは取引量の増大を保証してくれるので、それらは交換所に受け入れられます。）
 
-Exchanges will not list a coin unless they are guanteed to make a minimum of
-$5,000 or $40,000 a day in trading fees. So the coin has to be heavily marketed
-to scalp that much money off the user community after the ICO. The exchanges
-are taking 0.1% on each side (0.2% per trade because they are trading against
-themselves). So every million dollars a day of volume is draining a coin $2,000
-/day in exchange fees. Some of the coins are doing $6 or $10 million/day in
-"paid volume" or "guaranteed volume" ($12,000 or $20,000 a day in volume for
-medium sized coin). The exchange owners only care about volume.
+交換所は、そのコインの取引手数料が１日あたり5,000ドル～4万ドルほどないと、受け入れてくれません。
+そのため、ICOのあとに手っ取り早く収益を得ようとするので、ユーザコミュニティーはほったらかしになります。
+交換所は双方から0.1%の手数料をとります。(1取引あたり0.2%。なぜなら自分どうしで取引しているから。)
+そのため、1日に百万ドルの取引があったとして、2,000ドルの取引手数料が流出していることになります。
+いくつかのコインは、「有料ボリューム」または「保証ボリューム」として、毎日6,000万～1,000万ドルの取引があります。
+（中クラスのコインにおいて、1日当たり12,000ドルまたは20,000ドル）
+交換所のオーナーは取引量のみを気にします。
 
 The scam coins and mega-ICOs are paying the fees and working with the "market
 makers" to create the fake volume so the exchange owners know how much money
