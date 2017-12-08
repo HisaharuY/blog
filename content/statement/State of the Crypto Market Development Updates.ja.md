@@ -129,14 +129,12 @@ Cardanoのような例では、全てのコインがインサイダー(内部関
 
 過去に取引所BTC-eが閉鎖された時のような、特定の取引所の閉鎖命令はないかもしれませんが、MtGoxのようにハッキングして通貨が消滅してしまうかもしれません。
 
-There was also a conference call where it was pointed out that the SEC was
-funded by regulatory actions, fines and asset seizures. That is where their
-budget comes from.
+ある電話会議ではこんな指摘がされていました。SEC(米国証券取引委員会)は規制活動や、
+罰金、資産没収を基にして設立されていると。これらから彼らの資金が出ているのです。
 
-- The exchanges are ranked by volume.
-- Exchanges with no fees can create infinite fake volume, so only the
-  exchanges with trading fees are included in ranking, otherwise it's
-  inaccurate
+- 交換所は、取引量でランキングされています。
+- 「手数料無料」の取引所は、途方もないウソの取引量をねつ造します。
+　そして手数料をとる交換所はあまりランクキングされません。(ねつ造すれば話は別になります。)
 - To pump up their volumes and stay in the top of the rankings, the
   exchanges are doing secret rebates of trading fees and other scams to
   inflate their volume, while the actual volume is much lower
