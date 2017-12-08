@@ -170,9 +170,10 @@ Krakenはおそらくは唯一、このような問題がない取引所です�
 - 市場では売買が難しい(従って直接購買が必要)
 - 多くのコインは市場に出ていない。ハッキングの危険性があるため（Mt.Gox事件）
 - 実際にはそれほどの注文がないため、わずかな資金で何千億円もの市場規模であるようにみせることができる。
-- Emphasis of exchanges on only the largest, most well marketed coins who have
-  done huge ICOs (all of which are scams). No emphasis on technology or real
-  companies
+- 注意深くマーケティングを行った巨大なICO（すべてが詐欺である）は、巨大な取引量を強調する。
+　そして技術や実際の組織を重視しない。
+
+
 
 So for concrete example and instance there are three micro-grid tokens and
 companies:
