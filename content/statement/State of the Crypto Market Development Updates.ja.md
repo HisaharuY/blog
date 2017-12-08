@@ -52,7 +52,7 @@ categories = [
 
 意見の対立はとくに発生していません。また、Slack はあまり使用されていない状況です。
 
-我々にはSkyメッセンジャーと、独自のメッセージプラットフォームがありますので、状況をみてそちらへ移行したいと考えています。
+我々にはSkyメッセンジャーと、独自のメッセージプラットフォームがありますので、最終的にはそちらへ移行したいと考えています。
 
 我々はその他に、BBSとソーシャルメディアプラットフォームも現在活用しています。
 
@@ -95,14 +95,11 @@ Cardanoのような例では、全てのコインがインサイダー(内部関
 
 流行のモデルは次のとおり：
 
-- 設立者とインサイダーはICOの1/10で購入します。
+- 設立者とインサイダーはICOの1/10の価格で購入します。
 - 彼らは一般向けにICO価格で販売します。（インサイダーが”pre-ICO”で購入した価格の10倍。これは非公開）
-- Then they dump the coins on the exchange at the ICO price and support price
-  with the pre-ICO/ICO sales and then market the hell out of the project.
-  Dumping as many coins on the dumb public as they can.
-- Then everyone on the advisor board is doing this for +20 coins. Some of the
-  people are just doing the ICOs, going to next coin and washing/repeating
-  every week.
+- そして彼らは取引所にて、Pre-ICOおよびICOで得たコインを、ICO価格に最低保証価格を加えてばらまき、
+　プロジェクトをダメにしていく。間抜けな購買者に大量に売りさばく。
+- アドバイザーボードのメンバーは20以上ものコインでこれをやる。何人かはICOだけを行い、次のコインに移り、毎週これを繰り返す。
 
 ほとんどの「150億円をICOで調達した！」というような宣言はウソです。例えてみるなら、5人でお金を出してコインを買い、自分たちで裏からお金を回収しているようなものです。
 
