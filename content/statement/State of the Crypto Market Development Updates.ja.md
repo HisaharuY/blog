@@ -133,16 +133,13 @@ Cardanoのような例では、全てのコインがインサイダー(内部関
 罰金、資産没収を基にして設立されていると。これらから彼らの資金が出ているのです。
 
 - 交換所は、取引量でランキングされています。
-- 「手数料無料」の取引所は、途方もないウソの取引量をねつ造します。
-　そして手数料をとる交換所はあまりランクキングされません。(ねつ造すれば話は別になります。)
-- To pump up their volumes and stay in the top of the rankings, the
-  exchanges are doing secret rebates of trading fees and other scams to
-  inflate their volume, while the actual volume is much lower
-- The exchanges that are most aggressive about puffing their volume and who
-  are least moral are highest ranked
-- There is a huge incentive for exchanges to lie and puff their volume (which
-  is why they are only listing scam coins, who can guarantee high volumes and
-  fees)
+- 「手数料無料」のある取引所は、無理やり取引を増やします。
+　そして手数料をとる交換所はあまりランクキングされません。(正確に算出しないなら話は別ですが。)
+- ある取引所は裏の手数料値引きを行い、取引量を水増ししてランキングトップにいこうとします。
+　実際には取引は少ないのに。
+- もっと悪い取引所は、データを加工して、取引量を膨れ上げさせるようにしてランキングを上げていきます。
+- 交換所には大きなインセンティブがあるので、ウソや水増しが生じるのです。
+　（詐欺コインは取引量の増大を保証してくれるので、それらは交換所に受け入れられます。）
 
 Exchanges will not list a coin unless they are guanteed to make a minimum of
 $5,000 or $40,000 a day in trading fees. So the coin has to be heavily marketed
