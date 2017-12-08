@@ -173,23 +173,18 @@ Krakenはおそらくは唯一、このような問題がない取引所です�
 - 注意深くマーケティングを行った巨大なICO（すべてが詐欺である）は、巨大な取引量を強調する。
 　そして技術や実際の組織を重視しない。
 
+具体的な例として、3つのマイクログリッドトークンと企業があります。
 
+- 1つはトークンを発行しており、1億人/年の既存事業者であって、
+   暖房/発電の複合設備を30年に渡って運用してきています。そして、
+   規制や、顧客価格に関する法律、およびコンプライアンスに関する法律部門をもっています。
+   既存の顧客と収益を持っています。
+- 他の2つのコインは、数千億ドルもの資金を調達した大規模なICOであり、
+　ICOを成功させるための、ソフトウェアも従業員もなく、電力網を構築する経験もなく、
+ 　市場での事業運営に必要な規制を理解していない。
+　　そして、顧客がなく、収益もなく、資金を調達している市場でも営業することはできません。
 
-So for concrete example and instance there are three micro-grid tokens and
-companies:
-
-- One is launching token and is a 100 million/year existing business who has
-  been building and operating combined heating/electricity generation for
-  thirty years. Has whole legal department to deal with regulation and
-  customer pricing laws and compliance. Has existing customers and revenue.
-- The other two coins are are massive ICOs that raised tens or hundreds of
-  millions of dollars, but have no software, no employees, no experience
-  building power grids and do not even understand the regulations required
-  to operate in the markets they are raising funds in an ICO for. Has no
-  customers, no revenue, cannot even operate in the markets they are raising
-  funds for.
-
-The result:
+結果は次のとおり：
 
 - The two scam ICOs, already have multiple exchanges lined up to list them,
   with confirmed listing dates
