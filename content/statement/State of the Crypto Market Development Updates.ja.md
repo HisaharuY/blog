@@ -149,30 +149,25 @@ Cardanoのような例では、全てのコインがインサイダー(内部関
 （中クラスのコインにおいて、1日当たり12,000ドルまたは20,000ドル）
 交換所のオーナーは取引量のみを気にします。
 
-The scam coins and mega-ICOs are paying the fees and working with the "market
-makers" to create the fake volume so the exchange owners know how much money
-they will make.
+詐欺(scam)コインや巨大ICOは、「市場メーカー」と呼ばれる人たちにお金を支払い、
+大きな取引量であるように見せて、取引所オーナーにとって利益があるかのように感じさせます。
 
-Kraken is probably the only exchange that no one complains about and is not
-screwing with the volume.
+Krakenはおそらくは唯一、このような問題がない取引所です。
 
-Most people with large orders are actually trading OTC on Bitfinex or other
-OTC platforms.
+大規模に購入する顧客は、Bitfinex等から直接購入しています。
 
-Most of the exchanges are making their money on volume and do not
-have maker/taker fees so there is no real order book depth. Making it very
-easy to rig and manipulate coin prices with a relatively small amount of money
-(hence OTC must be used to fill large orders because they cannot be done on
-the order book). The market structure is just broken and optimized for
-manipulation.
+多くの交換所は、売買の登録費用ではなく、交換取引量に応じた収益を得ていますが、
+注文数は限られています。そのため、わずかな資金によって、コイン価格は操作されうる状況です。
+(この理由から、大きな注文をする際には、一般の交換所ではなく直接購入が望ましいということになります。)
+市場構造は壊されたり、都合の良いように操作されたりするのです。
 
-- No maker/taker fees, so a thin order book depth
-- Exchanges making all of their fees on volume
-- Exchanges ranked by fake volume (and exchanges are faking volume)
-- Hidden trading rebates
-- Paid market makers (people paid massive fees to create fake volume)
-- Inaccurate exchange rankings (by fake volume)
-- Inability to buy/sell on market (thus a need for OTC)
+- 製造者・購買者の登録費用はなく、注文量は少ない。
+- コインの交換の量が多くなると、手数料も増える。
+- ウソの交換量によってランキングが発表されている。(交換所が偽っている場合あり。)
+- 取引の隠されたリベート
+- 市場メーカーが雇われている。(大きな取引量に見せるために大きなお金を払っている）
+- 不正確な交換所ランキング(ウソの取引量)
+- 市場では売買が難しい(従って直接購買が必要)
 - Most coins are off markets because of the hacking risk (getting Goxed)
 - Ability to easily rig billions in coin market cap with little money
   because there is no real order book depth
