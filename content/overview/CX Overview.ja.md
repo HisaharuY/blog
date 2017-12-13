@@ -82,21 +82,7 @@ and the source code itself.
 この文書では、この言語の実装例を示すことにより、学術的な目的だけでなく、
 幅広い用途に使えるだけの頑丈で完備された言語であることを示そうと思います。
 
-As was mentioned in the introduction, CX is both a specification and a
-programming language. The CX specification does not impose a syntax,
-but rather the structures and processes that a CX dialect must
-implement in order to be considered a CX. As a consequence, one could
-implement a two CX dialects, one with a Lisp-like syntax, and another
-one with a C-like syntax. This underlaying language is called CX Base,
-or "the base language." In this document, an implementation is used to
-showcase the capabilities of the specification, although its purpose
-is not only to serve as an academic tool, but to become a complete and
-robust language that can be used for general purposes.
-
-この文書では、”Go言語”と似た書式でCXを記述することを目的としています。
-
-The CX used in this document has the goal to have a syntax as similar
-as possible to Go's syntax.
+この文書では、CXに関して、できるだけ”Go言語”に似た書式で説明するようにしました。
 
 # アフォーダンス（Affordances）
 
