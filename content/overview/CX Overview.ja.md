@@ -88,17 +88,13 @@ and the source code itself.
 
 プログラマーは、プログラムするときに、非常に多くの決断をしなければいけません。
 例えば、ある関数がいくつのパラメータを受け取ることにするのか、そしていくつのパラメータを
-返すことにするのか、目的とする機能を得るためどんな表示をするべきか、
+返すことにするのか、目的とする機能を得るためどんな表示をするべきか、等です。
 
-等です。
+CXにおけるアフォーダンスシステムでは、それぞれの要素入力の際、ふさわしいアクションの一覧が表示されます。
+この際に、
 
 
-A programmer needs to make a plethora of decisions while constructing
-a program, e.g., how many parameters a function must receive, how many
-parameters it must return, what statements are needed to obtain the
-desired functionality, and what arguments need to be sent as
-parameters to the statement functions, among others. The affordance
-system in CX can be queried to obtain a list of the possible actions
+The affordance system in CX can be queried to obtain a list of the possible actions
 that can be applied to an element. In this context, examples of elements are
 functions, structs, modules, and expressions.
 
